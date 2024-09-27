@@ -1,2 +1,3 @@
 # React-Learning
-this is repo for learning and testing React
+
+this is repo for learning and testing React with Mosh
